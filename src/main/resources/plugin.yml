@@ -1,0 +1,5 @@
+name: ChickenNoSpawn
+main: io.github.goadinggoat.ChickenNoSpawn.ChickenNoSpawn
+dev-url: http://www.spigotmc.org/resources/something
+version: 0.0.1
+authors: [GoadingGoat]
