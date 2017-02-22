@@ -5,7 +5,22 @@
 	<artifactId>ChickenNoSpawn</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ChickenNoSpawn</name>
-
+	<url>https://github.com/GoadingGoat/ChickenNoSpawn</url>
+	<inceptionYear>2017</inceptionYear>
+	<developers>
+		<developer>
+			<id>GoadingGoat</id>
+		</developer>
+	</developers>
+	<scm>
+		<connection>scm:git:git@github.com:GoadingGoat/ChickenNoSpawn.git</connection>
+		<developerConnection>scm:git:git@github.com:GoadingGoat/ChickenNoSpawn.git</developerConnection>
+		<url>git@github.com:GoadingGoat/ChickenNoSpawn.git</url>
+	</scm>
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/GoadingGoat/ChickenNoSpawn/issues</url>
+	</issueManagement>
 	<repositories>
 		<repository>
 			<id>spigot-repo</id>

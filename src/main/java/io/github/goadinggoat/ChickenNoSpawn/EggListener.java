@@ -1,5 +1,7 @@
 package io.github.goadinggoat.ChickenNoSpawn;
 
+import java.util.ArrayList;
+
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.CreatureSpawnEvent;
@@ -18,4 +20,6 @@ public class EggListener implements Listener {
 			e.setCancelled(true);
 		}
 	}
+	
+	String[] test = new String[new ArrayList<String>().size()];
 }
